@@ -51,4 +51,4 @@ Seguiu as diretrizes de design de página e publicou a dashboard como artifact.
 
 5. Endereço da dashboard publicada
 
-https://claude.ai/artifact/FxJECfF3www3QQ8qQB4sfw
+https://jeffetk.github.io/-Dashboard-Porsche/
